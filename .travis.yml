@@ -4,6 +4,7 @@ python:
 
 script:
     - py.test teste.py
+    - flake8
 
 after script:
 notifications:
