@@ -4,4 +4,4 @@ from principal import soma
 
 def testa_soma():
     """testa"""
-    assert soma(2, 2) == 4
+    assert soma(2, 4) == 6
